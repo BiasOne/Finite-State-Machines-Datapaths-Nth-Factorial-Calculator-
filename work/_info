@@ -1,0 +1,542 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/digitalDesign/Lab4
+Ebcd_converter
+Z0 w1602870764
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dD:/digitalDesign/Lab5
+Z5 8D:/digitalDesign/Lab5/bcd_converter.vhd
+Z6 FD:/digitalDesign/Lab5/bcd_converter.vhd
+l0
+L13
+Vl7Inagoi:BIclQh0k?f>O1
+!s100 ei?OLLkO2T;Q@bkMeM0Ci1
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1603404855
+!i10b 1
+Z9 !s108 1603404855.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/digitalDesign/Lab5/bcd_converter.vhd|
+Z11 !s107 D:/digitalDesign/Lab5/bcd_converter.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Aa
+R1
+R2
+R3
+DEx4 work 13 bcd_converter 0 22 l7Inagoi:BIclQh0k?f>O1
+l30
+L29
+VbDY2`=_jo[d304Db?NZ_D3
+!s100 b5AGAJg[7VB2`ChH<Ta1H2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ecomparator
+Z14 w1603129475
+R1
+R2
+R3
+R4
+Z15 8D:/digitalDesign/Lab5/comparator.vhd
+Z16 FD:/digitalDesign/Lab5/comparator.vhd
+l0
+L5
+Vn;_LNlTVQFR`QACcgbBPi3
+!s100 f?YQXQRfnD=7MPmKSm3Vl1
+R7
+32
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/digitalDesign/Lab5/comparator.vhd|
+Z18 !s107 D:/digitalDesign/Lab5/comparator.vhd|
+!i113 1
+R12
+R13
+Abhvcomp
+R1
+R2
+R3
+Z19 DEx4 work 10 comparator 0 22 n;_LNlTVQFR`QACcgbBPi3
+l17
+L15
+VgNPb>X4Z3cJiJV<8L3?zz0
+!s100 6X@YW>800l`<3nLc`AABe2
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
+Ectrl1
+Z20 w1603128579
+R1
+R2
+R3
+R4
+Z21 8D:/digitalDesign/Lab5/ctrl1.vhd
+Z22 FD:/digitalDesign/Lab5/ctrl1.vhd
+l0
+L5
+VkzXVjPo5cbZF8LoJPbS`]0
+!s100 ZeF150PWAE<BYeTQaV[0Z2
+R7
+32
+R8
+!i10b 1
+R9
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/digitalDesign/Lab5/ctrl1.vhd|
+Z24 !s107 D:/digitalDesign/Lab5/ctrl1.vhd|
+!i113 1
+R12
+R13
+Abhv
+R1
+R2
+R3
+Z25 DEx4 work 5 ctrl1 0 22 kzXVjPo5cbZF8LoJPbS`]0
+l27
+L21
+VefogeMK_z4KBU>0UBM[bc0
+!s100 Zb2@VaPd3lVOSlkH2_DzW1
+R7
+32
+R8
+!i10b 1
+R9
+R23
+R24
+!i113 1
+R12
+R13
+Edatapath1
+Z26 w1603401972
+R1
+R2
+R3
+R4
+Z27 8D:/digitalDesign/Lab5/datapath1.vhd
+Z28 FD:/digitalDesign/Lab5/datapath1.vhd
+l0
+L5
+V0J9>]G0XS@gXofaf;IF4`3
+!s100 LMES>1RQK0h085VRGX<aP3
+R7
+32
+R8
+!i10b 1
+R9
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/digitalDesign/Lab5/datapath1.vhd|
+Z30 !s107 D:/digitalDesign/Lab5/datapath1.vhd|
+!i113 1
+R12
+R13
+Astr
+Z31 DEx4 work 10 multiplier 0 22 bWbCJ76W8bjndD`1[CfiP0
+Z32 DEx4 work 11 decrementer 0 22 @WQGY5gVzzz:OEPidnT]12
+R19
+Z33 DEx4 work 4 reg2 0 22 E=gn5Jmm^IDLYfd=T0e3e1
+Z34 DEx4 work 7 mux_2x1 0 22 :klYIW>?jDzG10kzTWY0i2
+R1
+R2
+R3
+Z35 DEx4 work 9 datapath1 0 22 0J9>]G0XS@gXofaf;IF4`3
+l27
+L23
+V4M6m@KfKP6?P6^NO_kU_j0
+!s100 :_<?d@_@KO;[niCY<3R[:0
+R7
+32
+R8
+!i10b 1
+R9
+R29
+R30
+!i113 1
+R12
+R13
+Edecrementer
+Z36 w1603128178
+R1
+R2
+R3
+R4
+Z37 8D:/digitalDesign/Lab5/decrementer.vhd
+Z38 FD:/digitalDesign/Lab5/decrementer.vhd
+l0
+L5
+V@WQGY5gVzzz:OEPidnT]12
+!s100 U]H^D_a6D6YCOB=E:=>Pd2
+R7
+32
+R8
+!i10b 1
+R9
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/digitalDesign/Lab5/decrementer.vhd|
+Z40 !s107 D:/digitalDesign/Lab5/decrementer.vhd|
+!i113 1
+R12
+R13
+Abhvdec
+R1
+R2
+R3
+R32
+l15
+L13
+VYm3J0eO1Y4o_CVMm9Mm^i3
+!s100 H4Qdi9>2c:zl<VlQWNXL40
+R7
+32
+R8
+!i10b 1
+R9
+R39
+R40
+!i113 1
+R12
+R13
+Efactorial
+Z41 w1603404630
+R1
+R2
+R3
+R4
+Z42 8D:\digitalDesign\Lab5\factorial.vhd
+Z43 FD:\digitalDesign\Lab5\factorial.vhd
+l0
+L5
+VDE3DP:>H6GfPSjzeAJ;f`2
+!s100 e?U32BjSbo8T6mD1P>oZo3
+R7
+32
+R8
+!i10b 1
+R9
+Z44 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\digitalDesign\Lab5\factorial.vhd|
+Z45 !s107 D:\digitalDesign\Lab5\factorial.vhd|
+!i113 1
+R12
+R13
+Afsm_d2
+R35
+R25
+R1
+R2
+R3
+Z46 DEx4 work 9 factorial 0 22 DE3DP:>H6GfPSjzeAJ;f`2
+l95
+L91
+VmYiA`S^_bD4]O3WhLg^Md1
+!s100 AKCT_HRha9O]h;::GO^0]2
+R7
+32
+R8
+!i10b 1
+R9
+R44
+R45
+!i113 1
+R12
+R13
+Afsm_d1
+R1
+R2
+R3
+R46
+l27
+L20
+V^`DhKWHb]fc719lBn6d4E0
+!s100 PU_XXf1;<6ScnSKnG41lo2
+R7
+32
+R8
+!i10b 1
+R9
+R44
+R45
+!i113 1
+R12
+R13
+Efactorial_tb
+Z47 w1603404853
+R1
+R2
+R3
+R4
+Z48 8D:\digitalDesign\Lab5\factorial_tb.vhd
+Z49 FD:\digitalDesign\Lab5\factorial_tb.vhd
+l0
+L5
+VWH61IShhEgg28fAOMmlm60
+!s100 Z[Z`]6VijcTUo[`jKO[ke3
+R7
+32
+R8
+!i10b 1
+R9
+Z50 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\digitalDesign\Lab5\factorial_tb.vhd|
+Z51 !s107 D:\digitalDesign\Lab5\factorial_tb.vhd|
+!i113 1
+R12
+R13
+Atb
+R46
+R1
+R2
+R3
+DEx4 work 12 factorial_tb 0 22 WH61IShhEgg28fAOMmlm60
+l21
+L8
+Veh_RicGoEnmKz<>^A]O2Q1
+!s100 :?ZYcjLdC1B`Q;F:VCjF]2
+R7
+32
+R8
+!i10b 1
+R9
+R50
+R51
+!i113 1
+R12
+R13
+Emultiplier
+Z52 w1603129018
+R1
+R2
+R3
+R4
+Z53 8D:/digitalDesign/Lab5/multiplier.vhd
+Z54 FD:/digitalDesign/Lab5/multiplier.vhd
+l0
+L5
+VbWbCJ76W8bjndD`1[CfiP0
+!s100 gIl;dYlaUoHn83J6NDCCG0
+R7
+32
+R8
+!i10b 1
+R9
+Z55 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/digitalDesign/Lab5/multiplier.vhd|
+Z56 !s107 D:/digitalDesign/Lab5/multiplier.vhd|
+!i113 1
+R12
+R13
+Abhvmult
+R1
+R2
+R3
+R31
+l16
+L14
+VhTX=P5cBAWMY`@R:eQomH2
+!s100 DS8`HURPUH]`9`VRS8U[S3
+R7
+32
+R8
+!i10b 1
+R9
+R55
+R56
+!i113 1
+R12
+R13
+Emux_2x1
+Z57 w1603078908
+R2
+R3
+R4
+Z58 8D:/digitalDesign/Lab5/mux_2x1.vhd
+Z59 FD:/digitalDesign/Lab5/mux_2x1.vhd
+l0
+L5
+V:klYIW>?jDzG10kzTWY0i2
+!s100 h=>glXgfCJOFf8nVN5n_a3
+R7
+32
+Z60 !s110 1603404856
+!i10b 1
+R9
+Z61 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/digitalDesign/Lab5/mux_2x1.vhd|
+Z62 !s107 D:/digitalDesign/Lab5/mux_2x1.vhd|
+!i113 1
+R12
+R13
+Awith_select
+R2
+R3
+R34
+l18
+L17
+VWO<fh6`PV;^Ea>1E8m[d32
+!s100 KoP6?C`6?kdo3dR2S?F7z0
+R7
+32
+R60
+!i10b 1
+R9
+R61
+R62
+!i113 1
+R12
+R13
+Ereg2
+Z63 w1603129917
+R2
+R3
+R4
+Z64 8D:/digitalDesign/Lab5/reg2.vhd
+Z65 FD:/digitalDesign/Lab5/reg2.vhd
+l0
+L6
+VE=gn5Jmm^IDLYfd=T0e3e1
+!s100 Ucf4j_iA::7Yj5R[a0V633
+R7
+32
+R60
+!i10b 1
+Z66 !s108 1603404856.000000
+Z67 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/digitalDesign/Lab5/reg2.vhd|
+Z68 !s107 D:/digitalDesign/Lab5/reg2.vhd|
+!i113 1
+R12
+R13
+Async_rst
+R2
+R3
+R33
+l36
+L35
+Z69 VeEOCg^@iHk=oNbG;L>83f0
+Z70 !s100 jH_jEWMXY9mb8aaJ_gT571
+R7
+32
+R60
+!i10b 1
+R66
+R67
+R68
+!i113 1
+R12
+R13
+Aasync_rst
+R2
+R3
+R33
+l18
+L17
+VV:<WDMf]XMJ8i9mhbZF_61
+!s100 >AVDz>Y74cbm`VoHWM<7e2
+R7
+32
+!s110 1603084866
+!i10b 1
+!s108 1603084866.000000
+R67
+R68
+!i113 1
+R12
+R13
+w1603080101
+Eseg
+R0
+R2
+R3
+R4
+Z71 8D:/digitalDesign/Lab5/seg.vhd
+Z72 FD:/digitalDesign/Lab5/seg.vhd
+l0
+L8
+VOga]0XEzhhG84iFYd?dbz2
+!s100 ]`k:?^fmVA1RhjBU9c5[k0
+R7
+32
+Z73 !s110 1603129920
+!i10b 1
+Z74 !s108 1603129920.000000
+Z75 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/digitalDesign/Lab5/seg.vhd|
+Z76 !s107 D:/digitalDesign/Lab5/seg.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R2
+R3
+DEx4 work 3 seg 0 22 Oga]0XEzhhG84iFYd?dbz2
+l15
+L14
+V;zH3dVaVK`3>a[iK[XMLD0
+!s100 6Z18[=9mKj27TRgSFHo>D3
+R7
+32
+R73
+!i10b 1
+R74
+R75
+R76
+!i113 1
+R12
+R13
+Esegment_crtl
+R0
+R1
+R2
+R3
+R4
+Z77 8D:/digitalDesign/Lab5/segment_crtl.vhd
+Z78 FD:/digitalDesign/Lab5/segment_crtl.vhd
+l0
+L8
+VIT?^mTd3:nTJNTTnY9;7L0
+!s100 l26RVib>]WW7[KI9PG_?H0
+R7
+32
+R8
+!i10b 1
+R9
+Z79 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/digitalDesign/Lab5/segment_crtl.vhd|
+Z80 !s107 D:/digitalDesign/Lab5/segment_crtl.vhd|
+!i113 1
+R12
+R13
+Aarch
+R1
+R2
+R3
+DEx4 work 12 segment_crtl 0 22 IT?^mTd3:nTJNTTnY9;7L0
+l53
+L21
+VcHIN1GMVWl`FA9je8oezH1
+!s100 B=eocYoKWgIFFYYK9CaF73
+R7
+32
+R8
+!i10b 1
+R9
+R79
+R80
+!i113 1
+R12
+R13

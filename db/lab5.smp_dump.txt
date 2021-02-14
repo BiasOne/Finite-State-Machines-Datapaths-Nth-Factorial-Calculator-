@@ -1,0 +1,9 @@
+
+State Machine - |top_level|factorial:factorial_1|state
+Name state.FINISH state.OUTPUTMATH state.LOOP_BODY state.LOOP_COND state.LOAD state.START 
+state.START 0 0 0 0 0 0 
+state.LOAD 0 0 0 0 1 1 
+state.LOOP_COND 0 0 0 1 0 1 
+state.LOOP_BODY 0 0 1 0 0 1 
+state.OUTPUTMATH 0 1 0 0 0 1 
+state.FINISH 1 0 0 0 0 1 
